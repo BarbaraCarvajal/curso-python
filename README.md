@@ -17,4 +17,11 @@ Este curso tiene como objetivo enseñar los fundamentos de Python, desde la sint
 
 El curso está diseñado para principiantes en programación, pero también es útil para aquellos que deseen profundizar en sus conocimientos de Python. Se incluyen ejercicios prácticos y proyectos para aplicar los conceptos aprendidos. ¡Espero que disfrutes el curso! 😊
 
+## Palabras reservadas en Python
 
+and	as	assert	break	class	
+continue	def	del	elif	else	
+except False	finally	for	from
+global	if	import	in	is	lambda	
+None nonlocal	not	or	pass	raise	
+return	True	try	while	with	yield
